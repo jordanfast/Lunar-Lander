@@ -20,4 +20,5 @@ Les imatges que s'usaran i les seves especificacions.
 S'adjunta un PDF amb tota la informacio.
 hi ha una carpeta on estan totes les imatges.
 
-URL: 
+URL: https://github.com/simonjr90/Lunar-Lander
+
